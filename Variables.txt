@@ -1,0 +1,8 @@
+Horizontal Velocity :
+Vertical Velocity : 
+Resultant Velocity : 
+Angle of Launch : 
+Horizontal Displacement : 
+Peak Vertical Displacement : 
+m/s
+m
